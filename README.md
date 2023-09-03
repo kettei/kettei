@@ -4,6 +4,7 @@
   <img width="460" height="300" src="https://github.com/kettei/kettei/assets/42662172/fe27f2cc-baa4-4d9b-afa4-6aa6b601fd69">
 </p>
 
+![](https://komarev.com/ghpvc/?username=kettei&style=flat-square)
 
 <!--
 **kettei/kettei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
