@@ -1,7 +1,8 @@
 #### Hi there! 🐱
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/kettei/kettei/assets/42662172/fe27f2cc-baa4-4d9b-afa4-6aa6b601fd69">
+  <img width="560" height="300" src=https://github.com/kettei/kettei/assets/42662172/0f5d5df5-232d-4733-beaf-502570748155)
+">
 </p>
 
 ![](https://komarev.com/ghpvc/?username=kettei&style=flat-square)
