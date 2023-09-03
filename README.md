@@ -1,7 +1,8 @@
 #### Hi there! 🐱
 
 <p align="center">
-  <img width="560" height="300" src=https://github.com/kettei/kettei/assets/42662172/0f5d5df5-232d-4733-beaf-502570748155)
+  <img width="560" height="300" src=https://github.com/kettei/kettei/assets/42662172/d22e4201-e1db-4a4b-8ed3-ad2d306b3bc9)
+)
 ">
 </p>
 
