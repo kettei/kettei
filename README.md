@@ -12,7 +12,7 @@
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=kettei&show_icons=true&rank_icon=github&bg_color=00000000&text_color=FFFFFF&icon_color=FFFF00&border_color=008000" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kettei&layout=compact&langs_count=5&card_width=300&bg_color=00000000&text_color=FFFFFF&border_color=008000" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kettei&layout=compact&langs_count=7&card_width=300&bg_color=00000000&text_color=FFFFFF&border_color=008000" />
 </a>
 
 ### Socials 💬
